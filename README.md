@@ -1,16 +1,41 @@
-### Hi there 👋
+## Hi guys
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izanagi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izanagi&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/957475029106713377/CA78959DD9138A6FDD62A6112089542DDE7F2356/">
+</div>
+  
+  ## ソーシャルネットワーク
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 
-<!--
-**Itsizanagi/Itsizanagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+                                                                    追加情報
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<a href="https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif" target="blank"><img align="center" alt="GIF" src="https://i.pinimg.com/originals/b2/b0/2f/b2b02f3b94075334edb07f8e6f8c0d11.gif" /></a>
+
+
+<p align="center"> Atualmente morando em sp - 16y
+</p>
+
+
+#                                                                    *Rede sociais:*
+
+<a href="https://www.youtube.com/channel/UCvJ2TvlOEllxlFH8n2reFNg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/fvck_izanagi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
+<a href="https://youtu.be/dLOJiV0SkuI" target="blank"><img align="right" alt="GIF" src="https://pa1.narvii.com/6224/f9e68834f425b86b1f687f041b572ee2b528e57f_hq.gif" /></a>
+
+誰も自分の命を奪われるべきではありません
+<p align="center">
