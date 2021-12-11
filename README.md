@@ -3,7 +3,7 @@
 
 - 🧪 **Livros/Gaming**
 
-- 💬 **https://glitch.com/@Itsizanagi**
+- 💬 **solo.to/kimuras**
 - ⚡ **Meu discord: izanagi47#1381**
 - 📚 **Amante de jazz e lofi**
 
@@ -18,8 +18,7 @@
 # Informações Adicionais:
 ```javascript
 https://open.spotify.com/user/15i6kfe7gjfhv186s5fp70oeo?si=6a6827a281d5417d
-nick no lol: イザナギ izanagi
-twitter: AnarcoIzanagi
+twitter: izanagieyes_
 ```
 
 <p align="center">
