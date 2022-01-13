@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Izanagi.イザナギ </h1>
-<h4 align="center"> Moro atualmente em no Litoral de São Paulo. Estou estudando py e js no momento.</h4>
+<h4 align="center"> Moro atualmente no Litoral de São Paulo. Estou estudando py e js no momento.</h4>
 
 - 🧪 **Livros/Gaming**
 
