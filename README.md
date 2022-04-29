@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'm Izanagi.イザナギ </h1>
 <h4 align="center"> Moro atualmente no Litoral de São Paulo. Estou estudando py e js no momento.</h4>
 
-- 🧪 **Livros/Gaming**
-
-- 💬 **solo.to/kimuras**
-- ⚡ **Meu discord: izanagi47#1381**
-- 📚 **Amante de jazz e lofi**
+<h2> Sobre mim: </h2>
+<h3>
+  <ul>
+    <li>Tenho 16 anos.</li>
+    <li>Linguagens que estudo: Python, JavaScript.</li> 
+    <li> Amante de livro/Gaming.
+    <li> https://ayo.so/izanagi
+    <li> Meu Discord: izanagi#8523
+    <li> solo.to/kimuras
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
