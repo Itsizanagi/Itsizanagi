@@ -26,3 +26,6 @@ twitter: izanagieyes_
 ```
 
 <p align="center">
+  </ul>
+</h3>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Itsizanagi&layout=compact&theme=vision-friendly-dark'>
