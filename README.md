@@ -1,6 +1,6 @@
 <br>
   <h1 align="center">こんにちは, 私の名前はイザナギです</h1>
-
+  
 <img align="right" widgth="298" height="280" alt="gif" src="https://i.pinimg.com/originals/c9/67/de/c967dee22a4f1a651684bb0fd4ab49a8.gif">
 
 
