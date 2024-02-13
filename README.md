@@ -1,0 +1,14 @@
+<br>
+  <h1 align="center">こんにちは, 私の名前はイザナギです</h1>
+
+<img align="right" widgth="298" height="280" alt="gif" src="https://i.pinimg.com/originals/c9/67/de/c967dee22a4f1a651684bb0fd4ab49a8.gif">
+
+
+- C and Python student.
+- Mathematics and physics enthusiast.
+- always willing to learn new things.
+
+
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
