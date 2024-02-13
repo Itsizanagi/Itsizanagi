@@ -12,3 +12,7 @@
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h3 align="left">About me:</h3>
+
+- Member of [templo7k](https://templo7k.ninja)
+- Twitter on [izanagieyess](https://twitter.com/izanagieyess)
