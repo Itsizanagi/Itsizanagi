@@ -4,9 +4,11 @@
 <img align="right" widgth="298" height="280" alt="gif" src="https://i.pinimg.com/originals/c9/67/de/c967dee22a4f1a651684bb0fd4ab49a8.gif">
 
 
-- C and Python student.
-- Mathematics and physics enthusiast.
-- always willing to learn new things.
+> C and Python student.
+ 
+> Mathematics and physics enthusiast.
+
+> always willing to learn new things.
 
 
  <h3 align="left">Languages and Tools:</h3>
