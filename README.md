@@ -1,5 +1,5 @@
 <br>
-  <h1 align="center">こんにちは, 私の名前はイザナギです</h1>
+  <h1 align="center">最初で唯一の</h1>
   
 <img align="right" widgth="298" height="280" alt="gif" src="https://i.pinimg.com/originals/cc/22/4e/cc224e151b0e0ca96c5c6585f15bd983.gif">
 
