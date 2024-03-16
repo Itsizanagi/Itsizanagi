@@ -1,7 +1,7 @@
 <br>
   <h1 align="center">こんにちは, 私の名前はイザナギです</h1>
   
-<img align="right" widgth="298" height="280" alt="gif" src="https://i.pinimg.com/originals/c9/67/de/c967dee22a4f1a651684bb0fd4ab49a8.gif">
+<img align="right" widgth="298" height="280" alt="gif" src="https://i.pinimg.com/originals/ed/df/3b/eddf3b3356807c04483e9ea92b205ab9.gif">
 
 
 > C and Python student.
