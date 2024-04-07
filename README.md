@@ -1,7 +1,7 @@
 <br>
   <h1 align="center">最初で唯一の</h1>
   
-<img align="right" widgth="298" height="280" alt="gif" src="https://steamuserimages-a.akamaihd.net/ugc/2013723877257097899/BDC4FE67A46A7890B35DA58E696100E959C218D5/">
+<img align="right" widgth="298" height="280" alt="gif" src="https://i.pinimg.com/originals/c3/d8/da/c3d8da29f00691e009009cae23a4eae8.gif">
 
 
 > C and Python student.
