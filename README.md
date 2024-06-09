@@ -6,7 +6,7 @@
 ### 🔭 I'm currently studying:
 - [x] low level programming
 - [x] C/C++ language
-- [x] Neural networks
+- [x] Reverse engineering in +progress
 
 ### 🧠 Other areas that I am interested in:
 
